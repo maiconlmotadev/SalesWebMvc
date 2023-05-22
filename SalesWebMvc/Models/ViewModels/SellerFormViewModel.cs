@@ -9,3 +9,4 @@ namespace SalesWebMvc.Models.ViewModels
         public ICollection<Department> Departments { get; set; }
     }
 }
+  
